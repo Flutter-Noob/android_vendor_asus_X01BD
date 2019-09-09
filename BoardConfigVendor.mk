@@ -17,3 +17,6 @@
 ifeq ($(WITH_TWRP),true)
 TARGET_RECOVERY_DEVICE_DIRS += vendor/asus/X01BD/proprietary
 endif
+
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/asus/X01BD
