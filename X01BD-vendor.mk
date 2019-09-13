@@ -122,8 +122,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X01BD/proprietary/lib64/libGPTEE_system.so:system/lib64/libGPTEE_system.so \
     vendor/asus/X01BD/proprietary/lib64/libOmxMux.so:system/lib64/libOmxMux.so \
     vendor/asus/X01BD/proprietary/lib64/libQTEEConnector_system.so:system/lib64/libQTEEConnector_system.so \
-    vendor/asus/X01BD/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so \
-    vendor/asus/X01BD/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
+    vendor/asus/X01BD/proprietary/product/lib64/libaptXHD_encoder.so:system/product/lib64/libaptXHD_encoder.so \
+    vendor/asus/X01BD/proprietary/product/lib64/libaptX_encoder.so:system/product/lib64/libaptX_encoder.so \
     vendor/asus/X01BD/proprietary/lib64/libarcsoft_beautyshot.so:system/lib64/libarcsoft_beautyshot.so \
     vendor/asus/X01BD/proprietary/lib64/libarcsoft_hdr.so:system/lib64/libarcsoft_hdr.so \
     vendor/asus/X01BD/proprietary/lib64/libarcsoft_night_shot.so:system/lib64/libarcsoft_night_shot.so \
